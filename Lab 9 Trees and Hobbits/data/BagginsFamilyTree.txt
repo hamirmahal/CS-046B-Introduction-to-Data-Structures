@@ -1,0 +1,15 @@
+Balbo:Mungo,Pansy,Ponto,Largo,Lily
+Mungo:Bungo,Belba,Longo,Linda,Bingo
+Ponto:Rosa,Polo
+Largo:Fosco
+Bungo:Bilbo
+Longo:Otho
+Otho:Lotho
+Bingo:Falco
+Falco:Poppy
+Polo:Posco,Prisca
+Posco:Ponto2,Porto,Peony
+Ponto2:Angelica
+Fosco:Dora,Drogo,Dudo
+Drogo:Frodo
+Dudo:Daisy
